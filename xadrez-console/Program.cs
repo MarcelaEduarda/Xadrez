@@ -1,5 +1,15 @@
-﻿using xadrez_console.Tabuleiro;
+﻿using tabuleiro;
 
-Posicao p  = new Posicao(3, 4);
+namespace xadrez_console
+{
+	class Program
+	{
+		static void Main(string[] args)
+		{
 
-Console.WriteLine("Posição " + p);
+			Tabuleiro tab = new Tabuleiro(8, 8);
+
+			Console.WriteLine();
+		}
+	}
+}

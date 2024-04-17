@@ -12,3 +12,4 @@ C:\Users\marce\Desktop\jorge\Marcela\Marcela\Curso C#\xadrez-console\xadrez-cons
 C:\Users\marce\Desktop\jorge\Marcela\Marcela\Curso C#\xadrez-console\xadrez-console\obj\Debug\net8.0\xadrez-console.pdb
 C:\Users\marce\Desktop\jorge\Marcela\Marcela\Curso C#\xadrez-console\xadrez-console\obj\Debug\net8.0\xadrez-console.genruntimeconfig.cache
 C:\Users\marce\Desktop\jorge\Marcela\Marcela\Curso C#\xadrez-console\xadrez-console\obj\Debug\net8.0\ref\xadrez-console.dll
+C:\Users\marce\Desktop\jorge\Marcela\Marcela\Curso C#\xadrez-console\xadrez-console\obj\Debug\net8.0\xadrez-console.sourcelink.json
